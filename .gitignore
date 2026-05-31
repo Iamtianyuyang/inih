@@ -1,2 +1,2 @@
-fuzzing/findings
-fuzzing/inihfuzz
+build/
+build-*/
